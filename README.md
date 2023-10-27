@@ -6,7 +6,7 @@
 <br>
 <br>
 
-![ marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosdevss&show_icons=true&bg_color=00000000) 
+![marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosdevss&show_icons=true&bg_color=00000000) 
 
 <div style = "display inline_block"> 
 <img align = "right" alt = "sla" src = "https://media.giphy.com/media/6kQA7RbL36wxVuRHjH/giphy.gif">
